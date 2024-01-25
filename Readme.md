@@ -12,6 +12,3 @@ Veja a imagem de como está feita essa arquitetura em uma visão de componentes 
 
 ![modelo.png](modelo.png)
 
-Também fiz um exemplo igual em Quarkus.
-Veja o repo abaixo:
-https://github.com/natanielpaiva/arquitetura-hexagonal
